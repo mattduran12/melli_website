@@ -1,0 +1,29 @@
+---
+title: ""
+page-layout: full
+
+format:
+  html:
+    css: styles.css
+    anchor-sections: false
+    body-classes: about-page
+---
+
+::: columns
+
+::: {.column .profile-card}
+
+![](images/portrait_2.jpg){fig-align="center"}
+
+:::
+
+
+::: {.column .bio-card}
+
+## Dr. Mellissa Linton-Villafranco
+
+A scholar, researcher, and educator whose work examines criminal justice, public policy, and interdisciplinary approaches to improving communities. Her research bridges rigorous scholarship with public impact through data-driven inquiry, teaching, mentorship, and collaborative partnerships.
+
+:::
+
+:::

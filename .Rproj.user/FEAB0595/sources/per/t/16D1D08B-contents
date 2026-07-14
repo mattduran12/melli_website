@@ -1,0 +1,57 @@
+---
+title: "About"
+format:
+  html:
+    theme: jolla
+    page-layout: full
+    toc: false
+    css: styles.css
+---
+
+<div class="hero">
+
+  <div class="hero-overlay"></div>
+
+  <div class="hero-content">
+    <h1>Dr. Mellissa<br>Linton-Villafranco</h1>
+    <p>Scholar • Researcher • Educator</p>
+  </div>
+
+</div>
+
+<section class="about">
+
+  <div class="about-inner">
+
+<div class="hero">
+
+  <div class="hero-overlay"></div>
+
+  <div class="hero-content">
+    <h1>Dr. Mellissa<br>Linton-Villafranco</h1>
+    <p>Scholar • Researcher • Educator</p>
+  </div>
+
+</div>
+
+<section class="about">
+
+  <div class="about-inner">
+
+    <h2>About</h2>
+
+    <p>
+      Dr. Mellissa Linton-Villafranco is a scholar and educator focused on
+      research, public impact, and interdisciplinary inquiry. Her work
+      bridges academic rigor with real-world application, emphasizing
+      data-driven insight and community relevance.
+    </p>
+
+    <p>
+      She is committed to advancing knowledge through teaching, research,
+      and collaborative engagement across disciplines.
+    </p>
+
+  </div>
+
+</section>

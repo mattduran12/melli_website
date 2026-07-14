@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Mellissa Linton-Villafranco"
+  navbar:
+    background: primary
+    search: FALSE
+    left:
+      - text: "About"
+      - text: "Teaching"
+      - text: "Writing"
+      - text: "Updates"
+      - text: "Contact"
+
+format:
+  html:
+    theme: minty
+    toc: false
+
+editor: visual
+

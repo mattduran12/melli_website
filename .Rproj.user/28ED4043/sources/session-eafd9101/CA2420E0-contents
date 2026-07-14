@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Mellissa Linton-Villafranco"
+
+  navbar:
+    search: false
+    left:
+      - text: About
+        href: index.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Writing
+        href: writing.qmd
+      - text: Updates
+        href: updates.qmd
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    page-layout: full
+    toc: false
+
+editor: source
