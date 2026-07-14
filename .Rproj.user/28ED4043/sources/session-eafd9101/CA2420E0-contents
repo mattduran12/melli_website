@@ -11,6 +11,7 @@ website:
       - text: About
         href: index.qmd
       - text: Teaching
+        href: teaching.qmd
       - text: Writing
       - text: Updates
       - text: Contact
