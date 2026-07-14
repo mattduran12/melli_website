@@ -2,7 +2,7 @@
 title: "Dr. Mellissa Linton-Villafranco"
 
 about:
-  template: jolla
+  template: 
   image: images/portrait_1.jpg
   links:
     - icon: linkedin
