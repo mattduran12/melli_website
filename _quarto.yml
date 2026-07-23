@@ -13,8 +13,7 @@ website:
       - text: Teaching
         href: teaching.qmd
       - text: Writing
-      - text: Updates
-      - text: Contact
+        href: writing.qmd
 
 format:
   html:

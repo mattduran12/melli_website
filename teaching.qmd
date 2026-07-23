@@ -5,21 +5,28 @@ title-block-banner: false
 format:
   html:
     toc: true
+    toc-depth: 3
+    toc-location: right
+    toc-expand: true
+page-layout: full
 ---
 
+## Philosophy
 
-### WST 591: Reproductive Justice
+I approach teaching with compassion for students of diverse accessibility needs and backgrounds, adaptability for different teaching modalities, and open communication as the foundational principle to create transformative learning exchanges in the classroom. At ASU, I am an interdisciplinary, engaging and student-centered professor who empowers students to express their ideas by providing a range of course assignments that include formal papers and discussion boards, while also promoting creative assignments such as ‘Zines, poetry, and short films. My student-centered pedagogy is meant to demystify difficult theory and make it a collaborative process.
+
+## Courses
+
+### [WST 591: Reproductive Justice](documents/syllabus_wst_591.pdf)
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-3}
-![](images/teaching_1.png)
+::: {.g-col-12 .g-col-md-5}
+![](images/wst_591.jpeg)
 
 :::
 
-::: {.g-col-12 .g-col-md-9}
-
-[Summer 2024]()
+::: {.g-col-12 .g-col-md-7}
 
 This graduate seminar is designed for students interested in learning theoretical and practical applications of Reproductive Justice. Coined by the U.S.-based, Black feminist collective SisterSong in 1994, Reproductive Justice (RJ) focuses not only on the right to have or not have children, but also the right to parent the children we have in safe and sustainable communities.
 
@@ -28,27 +35,40 @@ This graduate seminar is designed for students interested in learning theoretica
 :::
 
 
-### SST 294: Introduction to LGBTQ History and Culture
+### [SST 294: Introduction to LGBTQ History and Culture](documents/syllabus_sst_294.pdf)
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-3}
-![](images/teaching_2.jpg)
+::: {.g-col-12 .g-col-md-5}
+![](images/sst_294.png)
 
 :::
 
-::: {.g-col-12 .g-col-md-9}
+::: {.g-col-12 .g-col-md-7}
 
-[Summer 2024]()
-
-This undergraduate course offers a comprehensive overview of LGBTQ+ history and culture in the United States, tracing the evolution of their identities, movements, and cultural expressions from the early homophile movement in the 1950s through the institutionalization of the discipline in the 1990s. Students are introduced to formative cultural texts including the film, Paris is Burning (1990) and the semi-autobiographical novel, Stone Butch Blues (1993) by Leslie Feinberg.
+This undergraduate course offers a comprehensive overview of LGBTQ+ history and culture in the United States, tracing the evolution of their identities, movements, and cultural expressions from the early homophile movement in the 1950s through the institutionalization of the discipline in the 1990s. Students are introduced to formative cultural texts including the film, *Paris is Burning* (1990) and the semi-autobiographical novel, *Stone Butch Blues* (1993) by Leslie Feinberg.
 
 :::
 
 :::
 
 
+### [SST 604: Sexuality Studies](documents/syllabus_sst_604.pdf)
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+![](images/sst_604.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-7}
+
+This doctoral-level seminar offers an in-depth exploration of the historical, theoretical, and cultural dimensions of sexuality studies. Anchored in critical frameworks such as poststructuralism, feminist theory, queer theory, and queer of color critique, the course examines how sexuality intersects with race, gender, politics, and space. Through rigorous engagement with foundational texts and contemporary scholarship, students will critically analyze the construction of sexual and gender identities, the politics of queer spaces, and the global and transnational dimensions of queer lives. This course aims to foster advanced analytical skills and contribute to the development of innovative research in sexuality studies.
+
+:::
+
+:::
 
 
 
