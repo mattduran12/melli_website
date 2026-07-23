@@ -1,29 +1,29 @@
 ---
 title: ""
 page-layout: full
-
-format:
-  html:
-    css: styles.css
-    anchor-sections: false
-    body-classes: about-page
+about:
+  id: hero-heading
+  template: trestles
+  image: images/portrait_2.jpg
+  links:
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=3o05O7kAAAAJ&hl=en&oi=ao
+    - icon: bank
+      text: Arizona State University
+      href: https://search.asu.edu/profile/3723615
 ---
 
-::: columns
 
-::: {.column .profile-card}
+:::{#hero-heading}
+## Short Bio
 
-![](images/portrait_2.jpg){fig-align="center"}
+Dr. Linton is an Assistant Professor of Women and Gender Studies in the [School of Social Transformation](https://search.asu.edu/profile/3723615) at Arizona State University.
+ 
+Her first book is [now available for pre-order](https://uapress.arizona.edu/book/el-salvador-reborn). Published by the University of Arizona Press, the book is titled *El Salvador Reborn: Abortion, Environment and the Politics of Survival in a Postwar Nation*.
 
+She received her Ph.D. in Ethnic Studies from UC San Diego, and her B.A. in English Literature and American Studies & Ethnicity from the University of Southern California. 
+
+At Arizona State University, she is the faculty coordinator for the [Undergraduate LGBT Studies Certificate](https://degrees.apps.asu.edu/minors/major/ASU00/PPLGBTCERT/lesbian-gay-bisexual-and-transgender-studies), a faculty affiliate with the [School of Transborder Studies](https://sts.asu.edu/), and a faculty advisor in Barrett the Honors College. 
 :::
 
-
-::: {.column .bio-card}
-
-## Dr. Mellissa Linton-Villafranco
-
-A scholar, researcher, and educator whose work examines public policy and interdisciplinary approaches to improving communities. Her research bridges rigorous scholarship with public impact through data-driven inquiry, teaching, mentorship, and collaborative partnerships.
-
-:::
-
-:::
