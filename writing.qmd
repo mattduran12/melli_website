@@ -228,8 +228,7 @@ El Salvador Reborn analyzes the political shift under El Salvador's right-wing p
 
 <div class="pub">
 
-<img class="pub-image" src="images/students.jpg" alt="Student March">
-
+<img class="pub-image" src="images/Central American Migrant Caravans.jpg" alt="">
 
 <span class="meta">Encyclopedia • 2025</span>
 
@@ -241,6 +240,7 @@ This peer-reviewed encyclopedia entry examines the emergence of migrant caravans
 
 <div class="pub">
 
+<img class="pub-image" src="images/Technologies of Care.png" alt="">
 
 <span class="meta">Peer-Reviewed Journal Article</span>
 
@@ -252,6 +252,8 @@ This article argues that Chicana and Salvadoran organizers developed "technologi
 
 <div class="pub">
 
+<img class="pub-image" src="images/Poetry and Creative Writing.jpg" alt="">
+
 <span class="meta">Creative Writing</span>
 
 ## Poetry and Creative Writing
@@ -262,6 +264,7 @@ This collection reflects on family history, migration, Salvadoran identity, memo
 
 <div class="pub">
 
+<img class="pub-image" src="images/Resisting OVerturn of Roe.jpg" alt="">
 
 <span class="meta">Ms. Magazine Op-Ed</span>
 
@@ -273,6 +276,8 @@ Written following the overturning of *Roe v. Wade*, this essay examines how repr
 
 <div class="pub">
 
+<img class="pub-image" src="images/Alabama_s Fundamentalist Leap.jpg" alt="">
+
 <span class="meta">Ms. Magazine Op-Ed</span>
 
 ## Alabama's Fundamentalist Leap: Cells Are Not Human Beings
@@ -283,6 +288,8 @@ This commentary examines the Alabama Supreme Court's 2024 ruling recognizing fro
 
 <div class="pub">
 
+<img class="pub-image" src="images/A Personal Reflection.jpg" alt="">
+
 <span class="meta">Personal Essay</span>
 
 ## A Personal Reflection on the Radical Roots Delegation
@@ -292,6 +299,8 @@ A reflective essay documenting participation in the 2018 Radical Roots delegatio
 </div>
 
 <div class="pub">
+
+<img class="pub-image" src="images/Running With My Ancestors.jpg" alt="">
 
 <span class="meta">Audio Project</span>
 

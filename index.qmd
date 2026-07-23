@@ -6,16 +6,15 @@ format:
     css: styles.css
 ---
 
-```{=html}
-<body class="landing">
+<div class="landing-container">
 
-<div class="landing-page">
+<img 
+src="images/portrait_1.jpg" 
+class="landing-image"
+alt="Portrait">
 
-    <a href="about.html" class="landing-button">
-        About
-    </a>
+<a href="about.html" class="landing-button">
+About
+</a>
 
 </div>
-
-</body>
-```
